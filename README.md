@@ -74,6 +74,7 @@ npm start
 [![first-challenge-18.png](https://i.postimg.cc/dV5WXqpD/first-challenge-18.png)](https://postimg.cc/DSbd4K2K)
 ## Walkthrough Video
 Video 1: user and friends https://drive.google.com/file/d/1SFnmkZ2SZ4eFICY-7ABNJv0dIeNkX6BC/view?usp=sharing
+</br>
 Video 2: thoughts https://drive.google.com/file/d/1D2Qiq4NHZ2Jnc2Pd19GSxmQe8V76hZu5/view?usp=sharing
 </br>
 </br>
