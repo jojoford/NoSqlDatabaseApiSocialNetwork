@@ -1,5 +1,5 @@
 # NoSqlDatabaseApiSocialNetwork
-challemge 18 : For a social media startup. An API for social network that uses a NoSQL database. website can handle large amounts of unstructured data
+Challenge 18 : For a social media startup. An API for social network that uses a NoSQL database. website can handle large amounts of unstructured data
 ## Table of Contents
 
 * [Description](#Description)
@@ -71,10 +71,14 @@ npm start
 
 
 ## Screenshot
+[![first-challenge-18.png](https://i.postimg.cc/dV5WXqpD/first-challenge-18.png)](https://postimg.cc/DSbd4K2K)
 ## Walkthrough Video
 
 </br>
 </br>
+## Contributing
+
+Thanks to all contributng github users and tutors, Esteban Romero and Robbie Porter
 Contact Me:
 
 Github
