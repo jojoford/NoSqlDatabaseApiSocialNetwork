@@ -7,9 +7,7 @@ challemge 18 : For a social media startup. An API for social network that uses a
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Technologies](#Technologies)
-* [Screenshot](#screenshot)
 * [Walkthrough-Video](#walkthrough-video)
-* [Deployment](#deployment)
 * [Contributing](#Contributing)
 </br>
 </br>
@@ -62,5 +60,21 @@ npm start
 <br/>
 <br/>
 
+## Technologies
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [npm](https://www.npmjs.com/)
+* [mongoose](https://mongoosejs.com/)
+* [momentjs](https://momentjs.com/)
+* [mongoose-seed](https://www.npmjs.com/package/mongoose-seed)
+<br/>
+<br/>
 
 
+## Screenshot
+## Walkthrough Video
+
+</br>
+</br>
+Contact Me:
+
+Github
